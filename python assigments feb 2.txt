@@ -1,0 +1,78 @@
+x = "Abc123456"
+
+if x.isalnum():
+    print('Given string is ALPHA-NUMERIC.')
+else:
+    print('Given string is NOT ALPHA-NUMERIC.')
+
+
+    x = "HelloWorld"
+
+if x.isalpha():
+    print('Given string is ALPHABETIC.')
+
+else:
+    print('Given string is NOT ALPHABETIC.'
+          
+
+x = "12345"
+
+if x.isdigit():
+    print('Given string is DIGIT.')
+else:
+    print('Given string is NOT DIGIT.')
+
+
+
+my_string = "hello world"
+
+if my_string.islower():
+    print('Given string is LOWER CASE.')
+else:
+    print('Given string is NOT LOWER CASE.')
+
+
+
+my_string = "HELLO WORLD"
+
+if my_string.isupper():
+    print('Given string is UPPER CASE.')
+else:
+    print('Given string is NOT UPPER CASE.')
+
+
+
+
+my_string = "    \t\n"
+
+if my_string.isspace():
+    print('Given string is SPACE.')
+else:
+    print('Given string is NOT SPACE.')
+
+
+
+x = "Hello World"
+
+if x.istitle():
+    print('Given string is a TITLE.')
+else:
+    print('Given string is NOT a TITLE')
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
